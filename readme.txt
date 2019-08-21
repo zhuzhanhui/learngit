@@ -5,3 +5,4 @@ Git tracks changes.
 My boss still prefers SVN.
 abc123
 creating a new branch is quick and simple
+add merge.
